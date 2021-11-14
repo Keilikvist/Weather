@@ -13,3 +13,10 @@ ul {
 #weather-description {
   text-transform: capitalize;
 }
+
+.footer {
+  position: fixed;
+  text-align: center;
+  bottom: 0px;
+  width: 100%;
+}
